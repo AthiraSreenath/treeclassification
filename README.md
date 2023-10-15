@@ -11,5 +11,4 @@ pip install -r requirements.txt
 streamlit run tree_classification_server.py
 ```
 
-![Pepper or Willow?](treeclassification.png)
 
